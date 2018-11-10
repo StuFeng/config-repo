@@ -15,4 +15,4 @@ spring:
   jpa:
     show-sql: true
 
-env: prod2
+env: prod3
